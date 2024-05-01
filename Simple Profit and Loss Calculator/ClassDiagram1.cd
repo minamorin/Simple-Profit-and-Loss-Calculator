@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Simple_Profit_and_Loss_Calculator.Form1" Collapsed="true">
+    <Position X="1.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>+SQgAkUAASEMARCCFCKQCIBaYgAAADAAMtzHgQhAArA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simple_Profit_and_Loss_Calculator.Program" Collapsed="true">
+    <Position X="6.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simple_Profit_and_Loss_Calculator.Properties.Resources" Collapsed="true">
+    <Position X="4.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simple_Profit_and_Loss_Calculator.Properties.Settings">
+    <Position X="10" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simple_Profit_and_Loss_Calculator.Advertising" Collapsed="true">
+    <Position X="1" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Expenses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simple_Profit_and_Loss_Calculator.Assets" Collapsed="true">
+    <Position X="10" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Expenses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simple_Profit_and_Loss_Calculator.Cartruck" Collapsed="true">
+    <Position X="16.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Expenses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simple_Profit_and_Loss_Calculator.Commissionsfees" Collapsed="true">
+    <Position X="25.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Expenses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simple_Profit_and_Loss_Calculator.Contractlabor" Collapsed="true">
+    <Position X="32.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Expenses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simple_Profit_and_Loss_Calculator.Deductions" Collapsed="true">
+    <Position X="13.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Deductions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simple_Profit_and_Loss_Calculator.Expenses" Collapsed="true">
+    <Position X="19.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Expenses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simple_Profit_and_Loss_Calculator.Homeofficeexpenses" Collapsed="true">
+    <Position X="19" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Expenses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simple_Profit_and_Loss_Calculator.Income" Collapsed="true">
+    <Position X="15.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Income.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simple_Profit_and_Loss_Calculator.Insurance" Collapsed="true">
+    <Position X="34.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Expenses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simple_Profit_and_Loss_Calculator.Interestpaid" Collapsed="true">
+    <Position X="3.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Expenses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simple_Profit_and_Loss_Calculator.Legalfeesandprofessionalservices" Collapsed="true">
+    <Position X="12.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Expenses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simple_Profit_and_Loss_Calculator.Meals" Collapsed="true">
+    <Position X="21.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Expenses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simple_Profit_and_Loss_Calculator.Officeexpenses" Collapsed="true">
+    <Position X="28" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Expenses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simple_Profit_and_Loss_Calculator.Otherbusinessexpenses" Collapsed="true">
+    <Position X="37" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Expenses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simple_Profit_and_Loss_Calculator.Rentlease" Collapsed="true">
+    <Position X="5.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Expenses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simple_Profit_and_Loss_Calculator.Repairsmaintenance" Collapsed="true">
+    <Position X="14.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Expenses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simple_Profit_and_Loss_Calculator.Supplies" Collapsed="true">
+    <Position X="23.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Expenses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simple_Profit_and_Loss_Calculator.Taxesandlicenses" Collapsed="true">
+    <Position X="30.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Expenses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simple_Profit_and_Loss_Calculator.Travelexpenses" Collapsed="true">
+    <Position X="39.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Expenses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simple_Profit_and_Loss_Calculator.Utilities" Collapsed="true">
+    <Position X="7.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Expenses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simple_Profit_and_Loss_Calculator.Taxpayer" Collapsed="true">
+    <Position X="17.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Taxpayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
